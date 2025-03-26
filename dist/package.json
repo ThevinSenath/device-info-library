@@ -1,0 +1,16 @@
+{
+    "name": "@thevinsenath/device-info",
+    "version": "0.0.1",
+    "description": "A Javascript utility library",
+    "main": "lib/es6/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mongoose": "^5.9.7"
+    }
+}
